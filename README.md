@@ -1,2 +1,2 @@
 # hello-world
-Initialize this repository with a README.
+Hi I'm Marko Manojlović.
